@@ -1,0 +1,6 @@
+PyQt6
+PyQt6-tools
+pydicom
+ultralytics
+numpy
+opencv-python
